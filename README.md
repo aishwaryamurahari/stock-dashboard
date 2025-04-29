@@ -40,7 +40,7 @@ The dashboard displays stock data in a table with a real-time chart, along with 
 
 ```bash
 git clone https://github.com/aishwaryamurahari/stock-dashboard.git
-cd stock-price-dashboard
+cd stock-dashboard
 ```
 ## 🔐 Environment Variables
 
