@@ -7,7 +7,7 @@ The dashboard displays stock data in a table with a real-time chart, along with 
 
 ## 🚀 Live Demo
 
-👉 [View Deployed App]()
+👉 [View Deployed App](https://stock-dashboard-lduf5hxkw-aishwarya-muraharis-projects.vercel.app/)
 
 ---
 
@@ -39,7 +39,7 @@ The dashboard displays stock data in a table with a real-time chart, along with 
 1. **Clone the repository**
 
 ```bash
-git clone
+git clone https://github.com/aishwaryamurahari/stock-dashboard.git
 cd stock-price-dashboard
 ```
 ## 🔐 Environment Variables
